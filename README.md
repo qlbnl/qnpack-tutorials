@@ -17,16 +17,3 @@ All tutorials are implemented as **Jupyter Notebooks** and can be run directly i
 
 ## Available Exercises
 - [**1G_exercise.ipynb**](QCE25/1G_exercise.ipynb) – Practical notebook to explore 1G ion-trap quantum repeater concepts and protocols.  
-
-### You can run either of the two repeater architectures:
-
-- **1G Ion-Trap Repeater**  
-  ```bash
-  python qnpack/oneG/iontrap.py
-  ```
-
-- **APE Repeater**
-  ```bash
-  python qnpack/APE/allphotonic.py
-  ```
-
