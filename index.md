@@ -1,3 +1,8 @@
+---
+layout: default
+title: QCE'26 Tutorial Agenda
+---
+
 # Quantum Network and Repeater Simulation Tutorial
 
 ## QCE'26 Tutorial Agenda

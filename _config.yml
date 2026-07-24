@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 
 # Only include the index page
 include:
-  - agenda.md
+  - index.md
 
 # Exclude everything else from the site
 exclude:
