@@ -1,0 +1,36 @@
+# GitHub Pages Configuration
+# This site serves only the tutorial agenda - no code is exposed
+
+title: Quantum Network and Repeater Simulation Tutorial
+description: QCE'26 Tutorial Agenda
+
+# Use a minimal theme
+theme: jekyll-theme-minimal
+
+# Only include the index page
+include:
+  - agenda.md
+
+# Exclude everything else from the site
+exclude:
+  - "*.ipynb"
+  - "*.py"
+  - "*.yml"
+  - "*.yaml"
+  - "*.json"
+  - "*.txt"
+  - "*.csv"
+  - "*.png"
+  - "*.jpg"
+  - "*.jpeg"
+  - "*.gif"
+  - "*.pdf"
+  - examples/
+  - QCE25/
+  - QCE26/
+  - start_here.ipynb
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
