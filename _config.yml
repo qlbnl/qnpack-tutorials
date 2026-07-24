@@ -7,16 +7,10 @@ description: QCE'26 Tutorial Agenda
 # Use a minimal theme
 theme: jekyll-theme-minimal
 
-# Only include the index page
-include:
-  - index.md
-
-# Exclude everything else from the site
+# Exclude everything except index.md from the site
 exclude:
   - "*.ipynb"
   - "*.py"
-  - "*.yml"
-  - "*.yaml"
   - "*.json"
   - "*.txt"
   - "*.csv"
