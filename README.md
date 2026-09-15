@@ -14,6 +14,7 @@ All tutorials are implemented as **Jupyter Notebooks** and can be run directly i
 
 ### APE Quantum Repeater Networks
 - [**First APE Simulation**](examples/APE_examples/APE_first.ipynb) - introductory simulation.
+- [**APE tutorial**](examples/APE_examples/APE_tutorial_exercise.ipynb) - demonstrates the effects of photon loss and emitter decoherence, and examines how tree encoding and Repeater Graph States of varying sizes can mitigate these effects.
 
 ## Available Exercises
 - [**1G_exercise.ipynb**](QCE25/1G_exercise.ipynb) – Practical notebook to explore 1G ion-trap quantum repeater concepts and protocols.  
